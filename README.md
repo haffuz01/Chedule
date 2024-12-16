@@ -1,4 +1,5 @@
 # Chedule
+A Process scheduling algorithm simulator written in c.
 ## What it is
 Chedule (C-schedule) is a Process scheduling algorithm simulator written in c. This is a sample project made for educational purposes. It could be useful for learning and understanding the following process scheduling algorithms.
 1. First come first serve
